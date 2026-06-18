@@ -1,0 +1,6 @@
+{
+  "name": "Undergraduate Tech Portfolio Builder",
+  "description": "A minimalist, highly polished responsive portfolio for undergraduate tech students. Includes project showcases, skill categories, Credly certification badges, a contact form powered by Formsparks, and a real-time portfolio data customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
