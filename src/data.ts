@@ -1,3 +1,4 @@
+import avatarImage from "./332470624_763635841999947_5385855005115743181_n.jpg";
 import { PortfolioData } from "./types";
 
 export const initialPortfolioData: PortfolioData = {
@@ -7,7 +8,7 @@ export const initialPortfolioData: PortfolioData = {
     "subTitle": "B.S. in Computer Science @ University of Mindanao - Matina",
     "bio": "Passionate about building high-performance, accessible, and scalable software. Armed with deep fundamental knowledge in various programming language and computing fundamentals from different aspects of tech: Be it Web Development, Native Software, or Artificial Intelligence.",
     "location": "Davao City, Philippines",
-    "avatarUrl": "src\\332470624_763635841999947_5385855005115743181_n.jpg",
+    "avatarUrl": avatarImage,
     "email": "charmellejohn@gmail.com",
     "githubUrl": "https://github.com/Chams15",
     "linkedinUrl": "",
