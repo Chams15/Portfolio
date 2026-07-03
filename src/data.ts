@@ -7,7 +7,7 @@ export const initialPortfolioData: PortfolioData = {
     "subTitle": "B.S. in Computer Science @ University of Mindanao - Matina",
     "bio": "Passionate about building high-performance, accessible, and scalable software. Armed with deep fundamental knowledge in various programming language and computing fundamentals from different aspects of tech: Be it Web Development, Native Software, or Artificial Intelligence.",
     "location": "Davao City, Philippines",
-    "avatarUrl": "https://scontent.fdvo5-1.fna.fbcdn.net/v/t39.30808-6/332470624_763635841999947_5385855005115743181_n.jpg?stp=dst-jpg_tt6&cstp=mx955x960&ctp=s955x960&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFw6MIWorWHOkqb-Wn9TAhuMemaR4HoVUYx6ZpHgehVRkz7swKDr0SEUin4bUS7LWnqLgaRN0v9NVScUtzzlXTr&_nc_ohc=z4kWg-CA8XUQ7kNvwF5kziw&_nc_oc=AdrK8DK_ltNd5hPtGSXSNXtCUDcuyv5U5losGYmJuD7YXiUT38UxQ57mCYyf5CZMYPU&_nc_zt=23&_nc_ht=scontent.fdvo5-1.fna&_nc_gid=jnh7j2en6lvnEUtlMC0f_g&_nc_ss=7b2a8&oh=00_Af9se7ljL68b2Z-ojzdq2EQt_5thYlr_lMBL0ZNBuvL3SA&oe=6A39ADA9",
+    "avatarUrl": "src\\332470624_763635841999947_5385855005115743181_n.jpg",
     "email": "charmellejohn@gmail.com",
     "githubUrl": "https://github.com/Chams15",
     "linkedinUrl": "",
